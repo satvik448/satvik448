@@ -1,3 +1,4 @@
+# Hi am Satvik
 # 💫 About Me:
 🎓 Pursuing Integrated Software Product Engineering at SGT University with Kalvium<br>💡 Passionate about building scalable web applications (Frontend + Backend)<br>🌱 Currently strengthening Data Structures & Algorithms<br>⚡ Interested in Backend Systems, Frontend Development, and Problem Solving<br>🗄️ Experienced in CRUD operations using MongoDB Atlas & Compass<br>🎯 Goal: Become a Software Development Engineer at FAANG-level companies
 
